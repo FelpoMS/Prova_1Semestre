@@ -1,0 +1,32 @@
+body{
+background-color: aliceblue;
+text-align: left;
+display: flex;
+width: 200px;
+height: 200px;
+margin: 50px auto;
+border-radius: 3px;
+line-height: 25px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#nome{
+    border-radius:15px ;
+}
+
+#email{
+    border-radius:15px ;
+}
+
+#area{
+    border-radius:15px ;
+}
+
+#servico{
+    border-radius:15px ;
+}
+
+
+
+
+
